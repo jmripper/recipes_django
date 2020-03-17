@@ -54,7 +54,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ORIGIN_WHITELIST = ['https://whispering-tor-94317.herokuapp.com/']
+CORS_ORIGIN_WHITELIST = ['https://whispering-tor-94317.herokuapp.com']
 
 ROOT_URLCONF = 'recipes_django.urls'
 
